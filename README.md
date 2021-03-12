@@ -50,7 +50,7 @@ Steps in the time-series
 3. Forecasting the Settle Price using an ARIMA Model.
 
 ![ARIMA](https://github.com/TaylorTucker/Time_Series/blob/main/Images/ARIMA_Results.PNG?raw=true)
-![ARIMA](https://github.com/TaylorTucker/Time_Series/blob/main/Images/ARMA_Chart.PNG?raw=true)
+![ARIMA](https://github.com/TaylorTucker/Time_Series/blob/main/Images/ARIMA_Chart.PNG?raw=true)
 
 ---
 
