@@ -1,4 +1,4 @@
-# Unit 10—A Yen for the Future
+# A Yen for the Future
 
 ![Yen Photo](https://media.istockphoto.com/photos/financial-succes-japanese-yen-bills-and-progress-chart-picture-id175198866)
 
